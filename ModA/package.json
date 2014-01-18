@@ -1,0 +1,11 @@
+{
+  "name": "ModA",
+  "version": "0.0.1",
+  "description": "Some test module",
+  "main": "ModA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Y.W",
+  "license": "BSD-2-Clause"
+}
