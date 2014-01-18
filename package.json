@@ -1,0 +1,18 @@
+{
+  "name": "node-test-module",
+  "version": "0.0.1",
+  "description": "Some master test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuvalw/node-test-module.git"
+  },
+  "author": "Y.W",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yuvalw/node-test-module/issues"
+  }
+}
