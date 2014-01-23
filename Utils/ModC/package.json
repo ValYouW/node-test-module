@@ -1,0 +1,11 @@
+{
+  "name": "ModC",
+  "version": "0.0.2",
+  "description": "Some ModC",
+  "main": "ModC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Y.W",
+  "license": "BSD"
+}
